@@ -1,3 +1,4 @@
+Forked from http://git.bwbot.org/publish/rknn3588-yolov8.git
 
 我们在https://github.com/leafqycc/rknn-multi-threaded的基础上，对rknn_model_zoo中的yolov8 example进行了整合，用github copilot重写了后处理函数，取消了pytorch依赖。
 
